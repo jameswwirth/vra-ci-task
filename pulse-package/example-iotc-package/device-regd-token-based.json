@@ -1,0 +1,26 @@
+{
+	"templateName": "template",
+	"devices": [{
+			"name": "Agent_x86",
+			"credential": [],
+			"property": [{
+				"name": "model",
+				"value": "Dell5K",
+				"isUnique": false
+			}, {
+				"name": "color",
+				"value": "Red",
+				"isUnique": false
+			}]
+		},
+		{
+			"name": "Agent_x86_1",
+			"credential": [],
+			"property": [{
+				"name": "model",
+				"value": "RPi3b",
+				"isUnique": false
+			}]
+		}
+	]
+}
