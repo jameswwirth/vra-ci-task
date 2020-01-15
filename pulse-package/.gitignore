@@ -1,0 +1,8 @@
+package-cli.zip
+open_source_licenses_clients.txt
+darwin_386/
+linux_amd64/
+windows_amd64/
+example-iotc-package/
+windows_386/
+people-counter-ingestion-service/
